@@ -7,3 +7,4 @@ c:\users\admin\source\repos\zombi\zombi\obj\Debug\zombi.csproj.GenerateResource.
 c:\users\admin\source\repos\zombi\zombi\obj\Debug\zombi.csproj.CoreCompileInputs.cache
 c:\users\admin\source\repos\zombi\zombi\obj\Debug\zombi.exe
 c:\users\admin\source\repos\zombi\zombi\obj\Debug\zombi.pdb
+c:\users\admin\source\repos\zombi\zombi\obj\Debug\zombi.csprojResolveAssemblyReference.cache
