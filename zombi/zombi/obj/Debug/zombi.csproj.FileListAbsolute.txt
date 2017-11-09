@@ -1,0 +1,9 @@
+c:\users\admin\source\repos\zombi\zombi\bin\Debug\zombi.exe.config
+c:\users\admin\source\repos\zombi\zombi\bin\Debug\zombi.exe
+c:\users\admin\source\repos\zombi\zombi\bin\Debug\zombi.pdb
+c:\users\admin\source\repos\zombi\zombi\obj\Debug\zombi.Form1.resources
+c:\users\admin\source\repos\zombi\zombi\obj\Debug\zombi.Properties.Resources.resources
+c:\users\admin\source\repos\zombi\zombi\obj\Debug\zombi.csproj.GenerateResource.Cache
+c:\users\admin\source\repos\zombi\zombi\obj\Debug\zombi.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\zombi\zombi\obj\Debug\zombi.exe
+c:\users\admin\source\repos\zombi\zombi\obj\Debug\zombi.pdb

@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\bongeszo\bongeszo\bin\Debug\bongeszo.exe.config
+C:\Users\admin\source\repos\bongeszo\bongeszo\bin\Debug\bongeszo.exe
+C:\Users\admin\source\repos\bongeszo\bongeszo\bin\Debug\bongeszo.pdb
+C:\Users\admin\source\repos\bongeszo\bongeszo\obj\Debug\bongeszo.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\bongeszo\bongeszo\obj\Debug\bongeszo.Form1.resources
+C:\Users\admin\source\repos\bongeszo\bongeszo\obj\Debug\bongeszo.Properties.Resources.resources
+C:\Users\admin\source\repos\bongeszo\bongeszo\obj\Debug\bongeszo.csproj.GenerateResource.Cache
+C:\Users\admin\source\repos\bongeszo\bongeszo\obj\Debug\bongeszo.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\bongeszo\bongeszo\obj\Debug\bongeszo.exe
+C:\Users\admin\source\repos\bongeszo\bongeszo\obj\Debug\bongeszo.pdb

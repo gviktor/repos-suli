@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\ekf25\ekf25\bin\Debug\ekf25.exe.config
+C:\Users\admin\source\repos\ekf25\ekf25\bin\Debug\ekf25.exe
+C:\Users\admin\source\repos\ekf25\ekf25\bin\Debug\ekf25.pdb
+C:\Users\admin\source\repos\ekf25\ekf25\obj\Debug\ekf25.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\ekf25\ekf25\obj\Debug\ekf25.Form1.resources
+C:\Users\admin\source\repos\ekf25\ekf25\obj\Debug\ekf25.Properties.Resources.resources
+C:\Users\admin\source\repos\ekf25\ekf25\obj\Debug\ekf25.csproj.GenerateResource.Cache
+C:\Users\admin\source\repos\ekf25\ekf25\obj\Debug\ekf25.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ekf25\ekf25\obj\Debug\ekf25.exe
+C:\Users\admin\source\repos\ekf25\ekf25\obj\Debug\ekf25.pdb
